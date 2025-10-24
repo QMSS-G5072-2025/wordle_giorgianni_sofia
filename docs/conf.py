@@ -6,7 +6,7 @@
 
 # -- Project information -----------------------------------------------------
 
-project = u"wordle_sg1234"
+project = u"wordle_sg3925"
 copyright = u"2025, Sofia Giorgianni"
 author = u"Sofia Giorgianni"
 

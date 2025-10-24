@@ -1,1 +1,0 @@
-from wordle_sg1234 import wordle_sg1234

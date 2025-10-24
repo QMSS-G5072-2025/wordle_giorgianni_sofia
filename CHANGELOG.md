@@ -4,4 +4,4 @@
 
 ## v0.1.0 (24/10/2025)
 
-- First release of `wordle_sg1234`!
+- First release of `wordle_sg3925`!

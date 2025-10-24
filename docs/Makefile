@@ -3,7 +3,7 @@
 # You can set these variables from the command line.
 SPHINXOPTS    =
 SPHINXBUILD   = python -msphinx
-SPHINXPROJ    = wordle_sg1234
+SPHINXPROJ    = wordle_sg3925
 SOURCEDIR     = .
 BUILDDIR      = _build
 
