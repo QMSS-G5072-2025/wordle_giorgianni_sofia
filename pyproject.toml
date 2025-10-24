@@ -1,10 +1,12 @@
 [tool.poetry]
-name = "wordle_sg1234"
+name = "wordle_sg3925"
 version = "0.1.0"
 description = "Wordle helper functions (HW07)"
 authors = ["Sofia Giorgianni"]
 license = "MIT"
 readme = "README.md"
+packages = [{ include = "wordle_sg3925", from = "src" }]
+
 
 [tool.poetry.dependencies]
 python = "^3.12"
@@ -14,6 +16,8 @@ python = "^3.12"
 myst-nb = "^1.3.0"
 sphinx-autoapi = "^3.6.1"
 sphinx-rtd-theme = "^3.0.2"
+pytest = "^8.4.2"
+pytest-cov = "^7.0.0"
 
 [build-system]
 requires = ["poetry-core>=1.0.0"]
