@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "wordle_sg3925"
-version = "0.1.0"
+version = "0.1.1"
 description = "Wordle helper functions (HW07)"
 authors = ["Sofia Giorgianni"]
 license = "MIT"
